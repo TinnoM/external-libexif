@@ -1,0 +1,2 @@
+# external-libexif
+external/libexif
